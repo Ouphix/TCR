@@ -1,5 +1,5 @@
 # The Cake Reports
-## Usefull open science tools to do research in psychiatry
+## Useful open science tools to do research in psychiatry
 
 The methodology of scientific method can be sometimes difficult to understand and implement in psychiatry. Different tools exist to help this process by collecting and interpreting data but they can sometimes be quite expensive. Here we will present free and open source softwares that help to communicate but also randomize, collect, interpret and publish data. These tools can be easily reused and shared. That could improve validity and reproducibility of scientific research. In order to be interactive, we will involve the participants in the collection of the data of a prototypical scientific study, an international cake testing database! (http://bit.ly/cakereport)
 
